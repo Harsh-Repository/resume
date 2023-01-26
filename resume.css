@@ -13,6 +13,7 @@
     background-color: blanchedalmond;
     padding: 20px;
     border: 20px;
+    flex-wrap: wrap;
 }
 
 
